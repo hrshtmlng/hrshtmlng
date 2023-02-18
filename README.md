@@ -19,6 +19,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/hrshtmlng)  
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hrshtmlng)](https://git.io/streak-stats)
+
 <!-- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)    -->
 
 
