@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 📫 How to reach me **malangharshit@gmail.com**
-- 👯 I’m looking to collaborate on Events, Hackathons, etc..
+- 👯 I’m looking to collaborate on Events, Hackathons etc..
 
 
 
