@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Malang</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Learner from India</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Machine Learning**
 - 📫 How to reach me **malangharshit@gmail.com**
 - 👯 I’m looking to collaborate on Events, Hackathons etc..
 
